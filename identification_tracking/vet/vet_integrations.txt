@@ -1,0 +1,4 @@
+Integrations
+Integration with RFID and NFC tag systems for dual-mode tracking
+Compatible with herd management and veterinary record systems
+Visual ID sync to cloud-based animal health platforms

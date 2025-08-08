@@ -1,0 +1,3 @@
+Software
+Mobile or desktop apps to record visual ID numbers
+Integration with herd management platforms

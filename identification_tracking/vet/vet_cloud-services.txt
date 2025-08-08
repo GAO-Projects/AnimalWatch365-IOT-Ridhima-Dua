@@ -1,0 +1,3 @@
+Cloud Services
+Secure online storage of animal records
+Optional link to RFID or GPS systems through integrated databases

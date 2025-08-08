@@ -1,0 +1,6 @@
+Relevant U.S. & Canadian Industry Standards
+USDA Animal Disease Traceability (ADT) Program
+CFIA National Livestock Identification for Cattle (NLID)
+ANSI/NAIS compliance for ear tagging
+Canadian Livestock Tracking System (CLTS)
+ISO 11784/11785 (when paired with RFID-enabled visual tags)
