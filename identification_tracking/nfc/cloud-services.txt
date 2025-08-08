@@ -1,0 +1,4 @@
+Secure cloud database for centralized animal identity and health records
+Owner/manager portal for asset tracking and updates
+Notifications for vaccinations, breeding schedules, or movement events
+Integration-ready API for ERP, CRM, and traceability systems

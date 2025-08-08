@@ -1,0 +1,20 @@
+S. – Municipal Pet Licensing Program (Austin, TX)
+To modernize its pet registry, Austin implemented NFC-enabled 
+tags provided by Animal Watch 365 Technologies. Residents can 
+tap the tag to view pet info and update contact data via mobile. 
+The result was a 55% improvement in lost pet recovery times and 
+reduced calls to city animal services.
+
+S. – Small-Scale Goat Dairy Farm (Vermont)
+A boutique goat dairy needed a traceability solution without the 
+infrastructure costs of RFID readers. Our NFC ear tags and mobile app 
+enabled staff to update milking, breeding, and medical records directly f
+rom the field, increasing operational efficiency and reducing paper-based 
+recordkeeping by 80%.
+
+Canada – Equine Event Registry (Alberta)
+A regional equine federation introduced NFC bridle tags to register 
+horses at competitions. Riders and staff could check horse profiles 
+with smartphones, simplifying ID verification and improving compliance 
+with movement and vaccine rules. Adoption led to quicker check-ins and 
+40% fewer errors in participant data

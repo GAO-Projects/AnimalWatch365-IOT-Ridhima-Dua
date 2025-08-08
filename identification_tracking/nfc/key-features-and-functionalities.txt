@@ -1,0 +1,6 @@
+Tap-to-access digital profiles using any NFC-enabled smartphone
+Customizable data fields including health, ownership, and movement
+Tamper-resistant and weatherproof for outdoor use
+Visual ID & QR backup for added accessibility
+Read/write capability to update records instantly in the field
+Encrypted UID for secure identification

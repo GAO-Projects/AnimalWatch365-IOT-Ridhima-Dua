@@ -1,0 +1,5 @@
+Veterinary practice management software (e.g., AVImark, eVetPractice)
+Government animal ID registries and movement tracking systems
+Farm and shelter CRM systems
+GIS-based mapping for herd movement
+Custom business platforms via open REST APIs

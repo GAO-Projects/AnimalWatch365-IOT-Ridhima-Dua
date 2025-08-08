@@ -1,0 +1,5 @@
+ISO/IEC 14443
+ISO/IEC 15693
+USDA Animal ID Compliance Guidelines
+ICAR Approved Identifier Products
+CFIA Animal Identification Requirements

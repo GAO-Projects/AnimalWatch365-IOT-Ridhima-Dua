@@ -1,0 +1,10 @@
+Works with Android and iOS smartphones with NFC
+Integrates with cloud dashboards, CSV import/export, and reporting tools
+Supports ISO 14443/15693 standards
+Compatible with RFID and visual tag systems for hybrid ID models
+Industries Served
+Animal Rescue and Adoption Centers
+Livestock and Agriculture
+Veterinary Services
+Local Government Animal Services
+Animal Transportation and Export

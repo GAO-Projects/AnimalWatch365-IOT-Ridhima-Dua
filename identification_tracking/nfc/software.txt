@@ -1,0 +1,4 @@
+Web-based dashboard for managing tag profiles and animal records
+NFC-enabled mobile app for instant profile viewing/editing 
+QR fallback interface for non-NFC devices 
+Real-time data sync and permission-based record access
