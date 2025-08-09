@@ -1,0 +1,16 @@
+Hardware
+Ultra-compact BLE tags for collars, ear tags, or harnesses 
+– BLE Gateways, Beacons & Accessories are ideal for supporting compact BLE tag integration 
+in pet and livestock wearable trackers
+
+Replaceable or rechargeable coin-cell batteries – 
+IoT Accessories provide essential power solutions and enclosures 
+compatible with BLE tracker battery systems
+
+Bluetooth 4.0+ enabled sensors with temperature and motion detection – 
+Motion & Position Sensors  are used in BLE trackers for accurate activity and 
+behavioral monitoring in animals
+
+Optional gateway hubs for expanding range – – 
+Zigbee Gateways/Hubs can be applied as low-power local hubs to extend BLE 
+tracker connectivity in larger farms or facilities.

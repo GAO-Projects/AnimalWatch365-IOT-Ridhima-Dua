@@ -1,0 +1,14 @@
+Case Studies
+US California Pet Shelter Network
+A regional network of animal shelters in Southern California deployed 
+BLE trackers across three facilities to monitor pet movement zones and 
+reduce staff search time. Staff efficiency increased by 40% and escape incidents were reduced to near zero
+
+US North Carolina Goat Farm
+A goat dairy farm utilized BLE tags within their enclosed barn to track resting 
+and activity times, correlating it with milk yield. The operation optimized feeding 
+schedules and improved herd health outcomes
+
+CA British Columbia Veterinary Institute
+A veterinary research institute in BC implemented BLE trackers for canine and feline patients post-surgery. 
+Proximity-based motion monitoring improved recovery oversight, allowing early detection of potential complications

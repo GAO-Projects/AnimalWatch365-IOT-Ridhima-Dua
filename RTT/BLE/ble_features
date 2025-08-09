@@ -1,0 +1,7 @@
+Key Features & Functionalities
+Energy-Efficient Tracking: Ultra-low power draw for long battery life
+Proximity Monitoring: Real-time distance-based alerts
+Geo-Zoning: Define zones where BLE readers detect entry/exit
+Activity Monitoring: Basic motion tracking and inactivity alerts
+Offline Data Storage: Store data locally during signal loss, auto-upload when reconnected
+Multi-User Access: Share device visibility with staff or veterinary teams

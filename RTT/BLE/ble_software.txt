@@ -1,0 +1,2 @@
+Software
+Real-time signal strength-based proximity mapping

@@ -1,0 +1,7 @@
+Applications
+Pet Shelters: Monitor dogs and cats in facilities with BLE perimeter alerts
+Dairy Barns: Detect cow activity in stanchions or stalls
+Poultry Farms: Monitor group movement patterns indoors
+Kennels & Breeders: Track location and activity of breeding animals
+Veterinary Clinics: Observe movement in treatment zones
+Zoological Institutions: Close-range tracking in controlled habitats

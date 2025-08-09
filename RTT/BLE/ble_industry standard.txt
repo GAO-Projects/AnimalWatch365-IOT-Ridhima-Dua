@@ -1,0 +1,6 @@
+Relevant U.S. & Canadian Standards & Regulations
+USDA Animal Welfare Act Monitoring Requirements
+AAFCO Facility-Based Tracking Guidelines
+FCC Part 15 for BLE Devices
+CFIA Animal Welfare Monitoring Recommendations
+ISO/IEC 24730 BLE Tracking Protocol Compliance

@@ -1,0 +1,5 @@
+Compatibility
+Works with iOS, Android, Windows, and macOS BLE-compatible systems
+Indoor-friendly and suitable for barns, shelters, and covered facilities
+Heat and moisture-resistant for agricultural environments
+Collars/tags available in multiple sizes for different species

@@ -1,0 +1,5 @@
+Integrations
+Compatible with major Bluetooth-enabled farm management systems
+Integrates with LoRa gateways or Wi-Fi repeaters for extended detection
+Custom APIs available for ERPs, veterinary software, and analytics dashboards
+Syncs with RFID-based systems for hybrid monitoring setups
