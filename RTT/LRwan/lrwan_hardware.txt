@@ -1,0 +1,16 @@
+Hardware
+Lightweight, rugged LoRaWAN tracking collars and ear tags – 
+LoRaWAN End Devices are ideal for robust, energy-efficient animal 
+wearables that ensure reliable location tracking over long distances.
+
+Built-in GPS, accelerometer, and temperature sensors – 
+GPS IoT Trackers/Devices integrate seamlessly with sensor modules to deliver real-time 
+animal location and behavior data in livestock tracking
+
+Solar-assisted or rechargeable battery options – 
+Solar Power components support sustainable energy solutions for remote, 
+maintenance-free tracker operation.
+
+Long-range antennas and LoRaWAN gateways – 
+LoRaWAN Gateways enable extended range and connectivity for wide-area 
+livestock monitoring in rural or expansive farms.

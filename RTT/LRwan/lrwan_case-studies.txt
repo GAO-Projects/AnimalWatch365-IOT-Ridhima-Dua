@@ -1,0 +1,15 @@
+Case Studies
+US Texas Cattle Ranch
+A 15,000-acre ranch in West Texas implemented LoRaWAN trackers across 3,000 cattle. 
+This led to a 70% reduction in labor hours spent locating animals and improved detection 
+of health anomalies, contributing to lower mortality rates and faster intervention times
+
+US Colorado Sheep Cooperative
+A coalition of sheep ranchers in Colorado deployed shared LoRaWAN 
+gateways and trackers to collectively monitor herds across shared grazing grounds. 
+The cooperative reported a 50% boost in productivity and better planning for rotational grazing
+
+CA Alberta Bison Reserve
+A conservation initiative in Alberta adopted LoRaWAN trackers for bison health monitoring. 
+Data collected was used for university-led research and helped inform new habitat management 
+practices without disturbing the animals.

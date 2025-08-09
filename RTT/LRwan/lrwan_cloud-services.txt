@@ -1,0 +1,5 @@
+Cloud Services
+End-to-end encrypted data storage
+Multi-tenant cloud-based platform for large deployments
+API access for ERP integration
+Regular OTA firmware updates and system diagnostics

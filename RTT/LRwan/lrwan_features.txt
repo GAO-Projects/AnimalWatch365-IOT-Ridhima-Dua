@@ -1,0 +1,7 @@
+Key Features & Functionalities
+Multi-Mile Range: Track animals up to 10+ miles from gateways
+Energy Efficiency: Low power use for months or even years of runtime
+Geofencing Alerts: Custom boundary notifications for animal containment
+Environmental Monitoring: Track ambient temperature and activity levels
+Offline Logging: Data storage during disconnection, auto-synced on reconnection
+High Capacity: Scalable to thousands of animals without significant infrastructure cost

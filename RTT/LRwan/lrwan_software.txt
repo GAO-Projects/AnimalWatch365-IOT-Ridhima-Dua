@@ -1,0 +1,5 @@
+Software
+Customizable alert settings (geo-fencing, inactivity, low battery)
+Centralized dashboard for real-time location mapping
+Historical playback and movement analytics
+Asset grouping and multi-animal tracking logic
