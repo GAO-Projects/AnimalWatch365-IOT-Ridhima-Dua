@@ -1,0 +1,6 @@
+Key Features & Functionalities
+Real-Time GPS Tracking: High-accuracy location updates with configurable frequency
+Geo-Fencing: Set custom boundaries and receive breach alerts instantly
+Movement Analysis: Track walking, resting, and behavioral patterns
+Battery Optimization: Smart energy use with low-power modes and solar assist
+Multilingual Interface: For diverse team deployment across regions

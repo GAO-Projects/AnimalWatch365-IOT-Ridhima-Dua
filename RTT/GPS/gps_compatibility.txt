@@ -1,0 +1,5 @@
+Compatibility
+Supports GSM (2G/3G/4G/5G) and LoRa for flexible coverage options
+Works in both urban and rural settings with or without cellular signal
+Durable under extreme temperatures, moisture, and rugged use
+Suitable for cattle, goats, horses, dogs, and exotic wildlife species

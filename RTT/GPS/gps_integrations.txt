@@ -1,0 +1,5 @@
+Integrations
+Compatible with farm management software (FMS) platforms
+Integration-ready APIs for custom dashboards and ERPs
+Connects with LoRaWAN gateways for network extension
+Optional sync with animal health records and ID databases

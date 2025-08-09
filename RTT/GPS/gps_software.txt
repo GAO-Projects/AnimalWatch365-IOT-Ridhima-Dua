@@ -1,0 +1,5 @@
+Software
+Web dashboard with real-time map integration
+Customizable alert settings (geo-fencing, inactivity, low battery)
+Multi-animal management and historical data review
+iOS and Android mobile apps for remote monitoring

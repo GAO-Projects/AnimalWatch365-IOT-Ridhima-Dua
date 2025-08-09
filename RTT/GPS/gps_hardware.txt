@@ -1,0 +1,13 @@
+Hardware
+Weather-resistant GPS collar devices – 
+GPS IoT Trackers/Devices are ideal for rugged GPS collars used in pet and livestock tracking
+
+Rechargeable lithium-ion batteries with solar assist options 
+– Solar Power solutions provide sustainable energy for GPS trackers in remote livestock environments.
+
+Embedded GSM/LoRa/Iridium/Satellite modules for data transmission 
+– LoRaWAN End Devices enable long-range, low-power communication for tracking animals over vast areas
+
+Ruggedized enclosures suitable for pets, cattle, sheep, and equines – 
+Industrial & Asset Monitoring Sensors are designed to withstand 
+harsh field conditions in livestock tracking deployments
