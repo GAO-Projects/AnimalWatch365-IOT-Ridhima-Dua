@@ -1,0 +1,16 @@
+Case Studies
+U.S. Case Study 1: Dairy Farm Lameness Prevention
+A large dairy operation in Wisconsin implemented our accelerometer and 
+gyroscope sensors to monitor cow mobility. Early detection of lameness reduced 
+veterinary costs by 25% and increased milk production by improving animal comfort.
+
+U.S. Case Study 2: Veterinary Clinic Pet Activity Monitoring
+A veterinary practice in California adopted our wearable sensor 
+technology to track recovery progress for post-surgery dogs. 
+Real-time movement data helped vets tailor rehabilitation plans, 
+improving patient outcomes and client satisfaction.
+
+Canadian Case Study: Beef Cattle Behavior Analysis
+A ranch in Alberta integrated our sensor system with GPS trackers 
+to study grazing patterns and detect stress in cattle. 
+The system enabled timely interventions that enhanced herd health and optimized pasture use.

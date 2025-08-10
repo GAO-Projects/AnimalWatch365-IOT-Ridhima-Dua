@@ -1,0 +1,18 @@
+Hardware
+Compact accelerometer and gyroscope sensor modules with high sensitivity – 
+Motion & Position Sensors enable precise activity tracking and behavioral analysis in animals.
+
+Durable wearable formats including collars, harnesses, and ear tags – 
+UHF RFID Readers, Tags & Accessories integrate seamlessly into rugged animal wearables for identity-linked motion tracking
+
+Waterproof and shock-resistant enclosures for rugged farm or outdoor use – 
+Zigbee End Devices  are ideal for reliable sensor deployment in harsh and remote agricultural environments
+
+Long-lasting battery systems designed for continuous data capture – 
+NB-IoT End Devices  support energy-efficient, long-duration motion sensing with extended battery life
+
+Lightweight construction to ensure comfort for pets and livestock – 
+BLE BLE Gateways, Beacons & Accessories  offer lightweight communication solutions for real-time mobility tracking
+
+Embedded interfaces for seamless integration with GPS, BLE, or RFID systems – 
+GPS IoT Trackers/Devicesprovide integrated geolocation and motion analysis for free-range animal management

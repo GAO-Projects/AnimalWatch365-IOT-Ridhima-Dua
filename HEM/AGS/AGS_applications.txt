@@ -1,0 +1,6 @@
+Applications
+Livestock lameness detection and mobility monitoring
+Behavioral studies in research facilities
+Monitoring pets for signs of stress or abnormal activity
+Health and welfare assessment in animal shelters and zoos
+Precision farming and automated animal care systems

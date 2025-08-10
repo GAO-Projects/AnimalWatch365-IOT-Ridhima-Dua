@@ -1,0 +1,7 @@
+Key Features and Functionalities
+High-precision detection of motion, posture, and rest cycles
+Ability to identify abnormal behaviors such as lameness or distress
+Integration with GPS or Bluetooth Low Energy (BLE) for location and proximity tracking
+Long battery life optimized for continuous monitoring
+User-friendly interface with customizable reports and alerts
+Data export capabilities for deeper analysis or veterinary consultation\
