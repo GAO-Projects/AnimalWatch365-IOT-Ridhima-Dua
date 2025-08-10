@@ -1,0 +1,6 @@
+Applications
+Veterinary Research Labs: Track subjects with accuracy for behavior or movement analysis
+Animal Rehab Centers: Monitor restricted movements during recovery phases
+Livestock Barns: Identify animals needing attention through movement anomalies
+Training Facilities: Measure agility, pacing, and motion behavior for working animals
+Zoos & Enclosures: Ensure animal welfare and boundary compliance

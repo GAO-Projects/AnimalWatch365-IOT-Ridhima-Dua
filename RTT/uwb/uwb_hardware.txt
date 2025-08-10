@@ -1,0 +1,12 @@
+Hardware
+UWB wearable tags (lightweight and waterproof): 
+Best complemented by Motion & Position Sensors for precise animal movement tracking
+
+Anchors or beacons for indoor/outdoor triangulation: 
+Aligns with BLE Gateways, Beacons & Accessories to support proximity-based location referencing
+
+Central gateway unit for processing and connectivity: 
+Can integrate with Device Edge systems to enable localized data processing and coordination.
+
+Optional mobile receiver for portable use cases: 
+Suitable for pairing with Industrial Tablet PCs to enable mobile field monitoring and interaction

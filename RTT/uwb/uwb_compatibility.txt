@@ -1,0 +1,5 @@
+Compatibility
+Works with UWB-compatible IoT gateways
+Suitable for enclosed or semi-enclosed environments (barns, pens, training zones)
+Supported on all major operating systems (Windows, iOS, Android, macOS) via web and mobile apps
+Seamless deployment in facilities with UWB-certified infrastructure

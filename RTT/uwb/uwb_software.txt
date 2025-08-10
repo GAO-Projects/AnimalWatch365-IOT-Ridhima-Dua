@@ -1,0 +1,5 @@
+Software
+Interactive dashboard for real-time visualization
+Automated heat maps and movement histories
+Alerts for boundary breaches, low battery, or inactivity
+Centralized device configuration and role assignments

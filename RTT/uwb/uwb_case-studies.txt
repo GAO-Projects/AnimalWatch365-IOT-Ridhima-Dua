@@ -1,0 +1,15 @@
+Case Studies
+US North Carolina Equine Training Center
+A horse rehabilitation and training facility installed our UWB Locators to 
+monitor injured horses in enclosed arenas. The real-time location data helped trainers 
+ensure safety, optimize exercise schedules, and improve recovery results
+
+US San Diego Animal Research Campus
+This university-operated research facility integrated UWB into its 
+primate enclosures for behavior study. The high-precision movement data 
+enabled researchers to automate behavioral mapping, resulting in more accurate, less intrusive studies.
+
+CA Alberta Bison Reserve
+A bison conservation group in Alberta deployed UWB Locators in semi-domesticated 
+herds for safety tracking and stress-reduction studies. Tag-based alerts prevented 
+accidents in restricted zones and helped researchers monitor micro-movements
