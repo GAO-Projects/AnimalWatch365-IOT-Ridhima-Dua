@@ -1,0 +1,24 @@
+Hardware
+Multisensor units capable of detecting temperature, humidity, 
+gases, and light – Best supported by Environmental & Agriculture 
+Sensors to monitor barn and paddock environments in real time.
+
+Rugged, weather-resistant casings for indoor and outdoor use – 
+Ideal for integration with NB-IoT End Devices that maintain reliable sensor 
+performance in harsh farm conditions
+
+Plug-and-play wireless modules with low energy consumption – 
+Enabled through Zigbee End Devices , offering easy-to-install, 
+energy-efficient environmental sensing across livestock facilities
+
+Solar-powered options for remote deployment – 
+Perfectly paired with Solar Power hardware for continuous operation of 
+sensors in off-grid or pasture locations.
+
+Modular form factors for wall-mount, ceiling-mount, or portable use – 
+Supported by Wi-Fi HaLow End Devices that provide flexible, low-bandwidth environmental 
+monitoring across various mounting setups
+
+Built-in calibration mechanisms to ensure long-term accuracy – 
+Complemented by Temperature & Process Calibrators to maintain precise and 
+reliable environmental sensor readings over time

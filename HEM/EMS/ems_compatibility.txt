@@ -1,0 +1,4 @@
+Compatibility
+Works with Android, iOS, Windows, and macOS platforms
+Supports Wi-Fi, Zigbee, LoRaWAN, and cellular networks
+Designed for barns, pet shelters, veterinary clinics, hatcheries, and transport vehicles

@@ -1,0 +1,7 @@
+Software
+Intuitive web dashboards and mobile apps for live environmental data
+Threshold-based alert system with SMS/email notifications
+Heat stress and ammonia level analytics with historical comparisons
+Customizable reporting for compliance and health monitoring
+Behavior-environment correlation analysis tools
+Multi-location monitoring under a unified dashboard

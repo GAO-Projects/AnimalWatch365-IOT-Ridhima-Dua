@@ -1,0 +1,7 @@
+Key Features and Functionalities
+Real-time alerts for unsafe environmental thresholds
+Historical trend tracking to identify patterns over time
+Smart zoning for different sections of animal facilities
+Supports integration with ventilation and climate control systems
+Easy installation with minimal setup time
+Works in extreme weather conditions across indoor and outdoor settings
