@@ -1,0 +1,7 @@
+Key Features & Functionalities
+Global Connectivity: Operates on GSM, 3G, 4G, and emerging 5G networks
+Real-Time Location Data: Instant updates across geographies
+Geo-Fencing Alerts: Get notified when animals leave designated zones
+Health & Movement Monitoring: Track rest patterns, stress indicators, and more
+Power Optimization: Smart battery modes extend operational life
+Mobile Alerts: Instant SMS or app notifications for critical events

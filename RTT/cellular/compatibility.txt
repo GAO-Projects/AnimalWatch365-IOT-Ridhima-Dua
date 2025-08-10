@@ -1,0 +1,5 @@
+Compatibility
+Works across major North American mobile carriers
+Suitable for cattle, sheep, pigs, horses, and exotic animals
+Designed to function in both rural and urban environments
+Multi-network fallback ensures coverage even in fringe areas

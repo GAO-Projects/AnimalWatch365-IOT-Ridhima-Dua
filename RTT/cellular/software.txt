@@ -1,0 +1,5 @@
+Software
+Real-time tracking dashboards with detailed map overlays
+Alert management for out-of-zone movement or inactivity
+Mobile and desktop apps for anytime access
+Historical reporting and activity analysis tools

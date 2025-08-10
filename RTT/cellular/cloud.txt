@@ -1,0 +1,5 @@
+Cloud Services
+Secure cloud infrastructure for centralized data storage
+Over-the-air firmware and configuration updates
+Scalable fleet management across thousands of devices
+APIs for third-party system integration
