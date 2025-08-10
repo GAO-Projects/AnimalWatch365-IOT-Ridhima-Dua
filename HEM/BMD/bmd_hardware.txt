@@ -1,0 +1,18 @@
+Hardware
+Wearable Collars and Harnesses – BLE Gateways, Beacons & Accessories 
+enable real-time tracking of heart rate, temperature, and movement in smart animal wearables.
+
+Subdermal Implants – LF RFID Readers, Tags & Accessoriesprovide permanent 
+biometric identification and internal monitoring for animals.
+
+Multi-Sensor Integration – Biometric and Health Sensors support the combination 
+of motion, health, and location data in compact multi-sensor platforms
+
+Animal-Safe Materials – Zigbee End Devices can be embedded in hypoallergenic and 
+rugged enclosures suitable for pets and livestock environments
+
+Long Battery Life – NB-IoT End Devices offer extended operational life for continuous 
+biometric data transmission with minimal maintenance
+
+Modular Attachments – LoRaWAN Accessories support flexible sensor and communication module 
+expansion for evolving biometric needs

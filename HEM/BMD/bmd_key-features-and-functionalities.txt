@@ -1,0 +1,7 @@
+Key Features and Functionalities
+Continuous tracking of heart rate, respiration, and body temperature
+Automatic alerts for fever, stress, or abnormal vitals
+Integration with GPS and environmental sensors
+Sleep, activity, and movement pattern recognition
+Bluetooth and LoRaWAN connectivity for real-time updates
+Data synchronization with mobile and web apps

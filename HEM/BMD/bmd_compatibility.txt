@@ -1,0 +1,6 @@
+Compatibility
+Android and iOS mobile platforms
+Common wearable standards (BLE, NFC, LoRaWAN)
+Cloud APIs for third-party analytics and reporting tools
+Livestock management systems (cattle, swine, poultry, equine)
+Home-based and commercial veterinary equipment

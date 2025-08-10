@@ -1,0 +1,6 @@
+Integrations
+GPS and LoRaWAN location trackers
+Environmental monitoring systems (temperature, ammonia, humidity)
+Veterinary management software
+Livestock performance tracking platforms
+IoT farm management hubs

@@ -1,0 +1,15 @@
+Case Studies
+U.S. – Cattle Health Optimization in Iowa
+A commercial cattle farm deployed our biometric collars across 1,500 heads. 
+Within three months, early fever detection led to a 30% drop in respiratory disease cases, 
+reducing antibiotic use and increasing market yield.
+
+U.S. – Smart Pet Health Monitoring in California
+A pet boarding facility in San Diego integrated our wearables to monitor 
+dogs with chronic conditions. Alerts helped prevent seizures and heat strokes, 
+boosting customer satisfaction and staff efficiency
+
+Canada – Dairy Herd Health Tracking in Ontario
+A dairy operation in Ontario integrated biometric wearables and cloud analytics 
+across its 500-cow operation. This enabled early mastitis detection and improved 
+overall herd health, cutting veterinary costs by 25% annually.
