@@ -1,0 +1,5 @@
+Integrations
+Integrates easily with facility management platforms
+Supports data exchange with veterinary health record systems
+API available for custom dashboards and automation workflows
+Syncs with barn automation systems for coordinated alerts

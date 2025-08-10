@@ -1,0 +1,6 @@
+Applications
+Veterinary Clinics: Monitor animal movement and rest post-surgery
+Pet Boarding Centers: Track pet activity and safety indoors
+Dairy Barns: Ensure cows follow movement routines and rest patterns
+Research Institutions: Collect accurate behavioral data in enclosed habitats
+Zoos and Wildlife Facilities: Track exotic animals indoors safely

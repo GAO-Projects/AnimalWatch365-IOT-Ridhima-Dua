@@ -1,0 +1,5 @@
+Software
+Intuitive web dashboard and mobile app
+Real-time and historical activity logs
+Configurable alert system for inactivity or movement thresholds
+Device health and signal strength monitoring

@@ -1,0 +1,7 @@
+Benefits
+Reduces manual labor for checking animal locations
+Helps ensure timely feeding, cleaning, and medical interventions
+Improves safety by detecting inactivity or unusual movement patterns
+Uses existing Wi-Fi—no costly infrastructure upgrades required
+Scales easily across multiple zones or buildings
+Enhances compliance and documentation for animal care protocols

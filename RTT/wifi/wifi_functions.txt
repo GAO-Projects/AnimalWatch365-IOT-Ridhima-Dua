@@ -1,0 +1,7 @@
+Key Features & Functionalities
+Wi-Fi-Based Positioning: Ideal for indoor and semi-enclosed spaces
+Motion Detection: Triggers alerts for abnormal activity or inactivity
+Geo-Fencing Alerts: Stay informed when animals enter or leave specific areas
+Smart Battery Management: Adjustable reporting intervals to conserve power
+Real-Time Alerts: SMS, email, or app notifications for instant awareness
+Multi-Animal Management: Track and manage dozens to thousands of animals
