@@ -1,0 +1,7 @@
+Cloud Services
+Secure cloud storage of acoustic data and analytics
+AI-powered anomaly detection and predictive analysis
+Web and mobile access for real-time alerts and playback
+Historical trend reports and comparison tools
+Role-based access control and alert management
+Integration-ready APIs for broader monitoring ecosystems

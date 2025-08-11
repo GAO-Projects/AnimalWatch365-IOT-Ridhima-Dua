@@ -1,0 +1,6 @@
+Applications
+Monitor respiratory health in poultry and livestock
+Detect distress vocalizations in kennels and shelters
+Track noise levels for compliance in urban pet care facilities
+Identify mechanical failures (feeders, HVAC, fans) via noise analysis
+Support research in animal behavior and welfare

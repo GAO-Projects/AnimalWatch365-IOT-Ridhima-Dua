@@ -1,0 +1,7 @@
+Key Features and Functionalities
+Real-time detection of vocal stress, coughing, or abnormal noise
+Automated alerts for predefined sound patterns (e.g., aggression, machinery fault)
+Visual audio waveform analysis for review and diagnostics
+Custom sound libraries tailored to species and environments
+Event-triggered audio recordings with time stamping
+Seamless connectivity to existing smart monitoring systems

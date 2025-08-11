@@ -1,0 +1,19 @@
+Hardware
+High-sensitivity directional microphones: Utilized BLE Gateways, Beacons 
+& Accessories to capture and transmit sound data from specific animal zones with precision.
+
+Wide-frequency unidirectional sound sensors: Integrated with Wi-Fi HaLow 
+End Devices for localized detection of vocal stress signals or distress calls in livestock environments.
+
+Noise-canceling enclosures for focused detection: Paired with LoRaWAN 
+End Devices to isolate and transmit only relevant animal acoustic signals across long distances.
+
+Weatherproof casings for indoor/outdoor use: Combined with Wi-Fi 
+HaLow End Devicesto enable consistent sound monitoring regardless of environmental exposure
+
+Mounting kits for stalls, cages, ceilings, and pens: 
+Supported by Z-Wave Accessories to allow easy installation and alignment 
+of acoustic sensors across different enclosures.
+
+Edge-processing modules for local signal filtering: 
+Enabled through Device Edge hardware for real-time, on-site sound pattern filtering before transmission.
