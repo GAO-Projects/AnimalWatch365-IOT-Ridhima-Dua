@@ -1,0 +1,7 @@
+Software
+Real-time thermal visualization dashboards
+Motion-triggered and heat-based alerts
+Automated image capture and data tagging
+Customizable temperature thresholds and alert logic
+Multi-device management and sensor grouping
+User permissions and access control settings

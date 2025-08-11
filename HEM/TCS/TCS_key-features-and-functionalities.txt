@@ -1,0 +1,9 @@
+Key Features and Functionalities
+Contactless temperature monitoring
+Detection of early signs of illness or stress
+Night vision and low-light performance
+Multi-zone scanning and heatmap overlays
+Real-time SMS/email alert notifications
+Local and remote data access
+Customizable monitoring zones and alert triggers
+Integration with biometric and GPS systems

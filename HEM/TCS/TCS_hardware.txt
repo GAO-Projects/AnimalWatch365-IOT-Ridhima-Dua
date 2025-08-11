@@ -1,0 +1,24 @@
+Hardware
+Real-time thermal visualization dashboards – Enabled through 
+Infrared Thermometers & Cameras to continuously monitor animal 
+body heat signatures in pens and shelters.
+
+Motion-triggered and heat-based alerts – 
+Integrated with Motion & Position Sensorsto detect abnormal 
+movements combined with elevated temperature for early illness detection
+
+Automated image capture and data tagging – 
+Powered by Optical & Imaging Sensorsfor capturing and tagging thermal 
+imagery of individual livestock for behavior and health analysis
+
+Customizable temperature thresholds and alert logic – 
+Supported by Zigbee Gateways/Hubs  to locally manage sensor behavior 
+and alert parameters at the hardware level
+
+Multi-device management and sensor grouping – 
+Achieved via LoRaWAN Gateways for scalable, long-range coordination of 
+multiple thermal sensors across large farms
+
+User permissions and access control settings – 
+Managed using BLE Gateways, Beacons & Accessories to control 
+physical access to thermal monitoring hardware in sensitive areas

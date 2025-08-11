@@ -1,0 +1,5 @@
+Compatibility
+Compatible with Windows, iOS, and Android platforms
+Seamlessly connects to Wi-Fi, LTE, and LoRaWAN networks
+Supports open API for custom software integration
+Designed to integrate with existing animal tracking infrastructure
